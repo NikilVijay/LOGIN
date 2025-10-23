@@ -74,8 +74,7 @@
 <body>
 
   <div class="login-container">
-    <!https://raw.githubusercontent.com/NikilVijay/LOGIN/main/mec%20logo.png>
-    <img src="logo.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/NikilVijay/LOGIN/main/mec%20logo.png" alt="Logo" class="logo">
     <h2>Login</h2>
     <form action="#" method="post">
       <input type="text" placeholder="Username" class="input-field" required>
